@@ -9,7 +9,7 @@ import java.awt.GridLayout;
 public class interfacedisparition implements Affichage
 {
 		
-		  public static void afficherjeu(boutton boutton)
+		  public static void main(String[] args)
 		  {
 		    JFrame fenetre = new JFrame();
 		    fenetre.setTitle("* Disparition *");
