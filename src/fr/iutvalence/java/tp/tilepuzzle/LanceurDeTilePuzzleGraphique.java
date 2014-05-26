@@ -23,6 +23,7 @@ public class LanceurDeTilePuzzleGraphique
 	}
 	
 	
+	
 	public void Joueur; 
 	
 		public Position getPosition(int hauteurPlateau, int largeurPlateau) {
