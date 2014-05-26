@@ -1,16 +1,20 @@
 package fr.iutvalence.java.tp.tilepuzzle;
 
-public class LanceurDeTilePuzzleGraphique {
+public class LanceurDeTilePuzzleGraphique
+{
 	
-	public interface IHM {
+	public interface IHM 
+	{
 		
 	}
 	
-	public interface Joueur {
+	public interface Joueur 
+	{
 		
 	}
 	
-	public class LanceurDeTilePuzzle {
+	public class LanceurDeTilePuzzle 
+	{
 		
 	}
 
