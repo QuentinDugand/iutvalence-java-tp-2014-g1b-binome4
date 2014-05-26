@@ -22,6 +22,8 @@ public class AffichageConsole implements Affichage
 				if (plateau.estCaseAllumee(new Position(ligne, colonne)))
 				{
 					plateauAffichable += "O ";
+					 
+					
 				}
 				else
 				{

@@ -1,4 +1,4 @@
-package fr.iutvalence.java.tp.tilepuzzle;
+ package fr.iutvalence.java.tp.tilepuzzle;
 
 import java.io.BufferedReader;
 import java.io.File;
