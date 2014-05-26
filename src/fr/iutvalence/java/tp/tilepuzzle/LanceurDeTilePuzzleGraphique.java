@@ -5,7 +5,7 @@ public class LanceurDeTilePuzzleGraphique
 	
 	public void IHM()
 	{	
-		public class AffichageConsole implements Affichage
+		//public class AffichageConsole implements Affichage
 
 			@Override
 			public void afficherDemandePosition() {
@@ -19,17 +19,17 @@ public class LanceurDeTilePuzzleGraphique
 				
 			}
 
-			
 	}
 	
-	
-	public void Joueur; 
-	
-		public Position getPosition(int hauteurPlateau, int largeurPlateau) {
-			return null;
-		
+	// ce que joueur peu faire 
+	public void Joueur()
+	{
+		donnePosition = new getPosition()
 	}
 	
+	public Position getPosition(int hauteurPlateau, int largeurPlateau) {
+		return null;
+	}
 	public void TilePuzzle()
 	{
 
